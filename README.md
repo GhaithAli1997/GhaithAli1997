@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ghaith_Ali
+- 👋 Hi, I’m @Ghaith_Ale
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently working on realistic projects in AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with professionals
 - 📫 How to reach me Email: ghaith.a.a.ali.8.26.1997@gmail.com
 
 <!---
